@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
-<h3 align="center">A Passionate Self Taught Polygot Developer</h3>
+<h3 align="center">A Passionate Self Taught Polyglot Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshankar2002&label=Profile%20views&color=0e75b6&style=flat" alt="hrshankar2002" /> </p>
 
